@@ -32,3 +32,16 @@ The Expense Tracker is a simple Python application that allows users to enter th
 2. The program adds the amount to the total.
 3. The user can continue entering expenses.
 4. When finished, the program displays the total amount spent.
+
+PROJECT-3
+
+#  Random Password Generator
+
+A simple Python project that generates strong and random passwords based on the user's desired password length.
+
+# Features
+
+* Generate random passwords of any length.
+* Uses Python's built-in `random` and `string` modules.
+* Includes uppercase letters, lowercase letters, and digits.
+* Easy to understand and beginner-friendly.
